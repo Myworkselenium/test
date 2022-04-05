@@ -1,0 +1,38 @@
+08:14:02.400 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+08:14:02.405 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+08:14:03.290 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 5540 (auto-detected)
+08:14:03.292 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+08:14:03.292 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+08:14:03.338 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+08:14:03.339 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+08:14:03.395 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 18:5e:0f:ff:fe:61:67:00 (auto-detected)
+08:14:03.476 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+08:14:03.476 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+08:14:03.476 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@ada3938
+08:14:03.509 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+08:14:03.509 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+08:14:03.509 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+08:14:03.509 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+08:14:04.346 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+08:14:04.527 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x2182b9bc1b037b08
+08:14:04.583 [main] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+08:14:04.954 [main] INFO  testCases.TC_001_AccountRegistration -  Starting TC_001_AccountRegistration 
+08:14:07.643 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+08:14:08.253 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account 
+08:14:09.632 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Register 
+08:14:09.729 [main] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+08:14:09.822 [main] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+08:14:09.923 [main] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+08:14:10.003 [main] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+08:14:10.076 [main] INFO  testCases.TC_001_AccountRegistration - Provided Password 
+08:14:10.151 [main] INFO  testCases.TC_001_AccountRegistration - Provided Confrmed Password 
+08:14:10.218 [main] INFO  testCases.TC_001_AccountRegistration - Set Privacy Policy 
+08:14:12.680 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+08:14:12.724 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success 
+08:14:12.727 [main] INFO  testCases.TC_001_AccountRegistration -  Finished TC_001_AccountRegistration 
+08:14:12.745 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+08:14:14.799 [main] INFO  testCases.TC_002_Login - Launched Chrome Browser
+08:14:14.805 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login
+08:14:17.720 [main] INFO  testCases.TC_002_Login - Home Page is Displayed
+08:14:18.390 [main] INFO  testCases.TC_002_Login - Clicked on My Account
+08:14:18.392 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
